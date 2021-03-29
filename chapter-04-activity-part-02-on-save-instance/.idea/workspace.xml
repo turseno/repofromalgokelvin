@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a33a3ed7-f696-4417-a53b-4aac56d17ae9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-02-android-lifecycle-part-01/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-02-android-lifecycle-part-01/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-02-android-lifecycle-part-01/src/main/java/com/algokelvin/android/learning/kotlin/chapter02/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-02-android-lifecycle-part-01/src/main/java/com/algokelvin/android/learning/kotlin/chapter02/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-02-android-lifecycle-part-01/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-02-android-lifecycle-part-01/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-03-activity-part-01-activity-basic/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-03-activity-part-01-activity-basic/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-03-activity-part-01-activity-basic/src/main/java/com/algokelvin/android/learning/kotlin/chapter03/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-03-activity-part-01-activity-basic/src/main/java/com/algokelvin/android/learning/kotlin/chapter03/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1q6TtlRsRZqSzk0Md8m70aCL5HH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chapter-03-activity-part-01-activity-basic" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33a3ed7-f696-4417-a53b-4aac56d17ae9" name="Default Changelist" comment="" />
+      <created>1616399262369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616399262369</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="60" key="FileChooserDialogImpl" timestamp="1616407228743">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="409" y="60" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1616407228743" />
+    <state x="66" y="0" key="SettingsEditor" timestamp="1616400097245">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="66" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1616400097245" />
+  </component>
+</project>

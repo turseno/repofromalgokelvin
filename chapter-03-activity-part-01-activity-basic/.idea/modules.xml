@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1988633642/LearningAndroidKotlinAlgokelvin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1988633642/LearningAndroidKotlinAlgokelvin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/267442280/LearningAndroidKotlinAlgokelvin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/267442280/LearningAndroidKotlinAlgokelvin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-685485336/LearningAndroidKotlinAlgokelvin.chapter-02-android-lifecycle-part-01.iml" filepath="$PROJECT_DIR$/.idea/modules/-685485336/LearningAndroidKotlinAlgokelvin.chapter-02-android-lifecycle-part-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearningAndroidKotlinAlgokelvin.chapter-03-activity-part-01-activity-basic.iml" filepath="$PROJECT_DIR$/.idea/modules/LearningAndroidKotlinAlgokelvin.chapter-03-activity-part-01-activity-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1407165034/LearningAndroidKotlinAlgokelvin.chapter-04-activity-part-02-on-save-instance.iml" filepath="$PROJECT_DIR$/.idea/modules/-1407165034/LearningAndroidKotlinAlgokelvin.chapter-04-activity-part-02-on-save-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-323050287/LearningAndroidKotlinAlgokelvin.chapter-05-intent-part-01-intent-basic.iml" filepath="$PROJECT_DIR$/.idea/modules/-323050287/LearningAndroidKotlinAlgokelvin.chapter-05-intent-part-01-intent-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1271222676/LearningAndroidKotlinAlgokelvin.chapter-06-intent-part-02-intent-with-data.iml" filepath="$PROJECT_DIR$/.idea/modules/1271222676/LearningAndroidKotlinAlgokelvin.chapter-06-intent-part-02-intent-with-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1332268188/LearningAndroidKotlinAlgokelvin.chapter-07-intent-part-03-intent-with-data-parcelable.iml" filepath="$PROJECT_DIR$/.idea/modules/1332268188/LearningAndroidKotlinAlgokelvin.chapter-07-intent-part-03-intent-with-data-parcelable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/352283666/LearningAndroidKotlinAlgokelvin.chapter-08-intent-part-04-intent-implisit.iml" filepath="$PROJECT_DIR$/.idea/modules/352283666/LearningAndroidKotlinAlgokelvin.chapter-08-intent-part-04-intent-implisit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1274743027/LearningAndroidKotlinAlgokelvin.chapter-09-intent-result-activity-contact-phone.iml" filepath="$PROJECT_DIR$/.idea/modules/-1274743027/LearningAndroidKotlinAlgokelvin.chapter-09-intent-result-activity-contact-phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1779990580/LearningAndroidKotlinAlgokelvin.chapter-10-intent-result-activity-camera-gallery.iml" filepath="$PROJECT_DIR$/.idea/modules/1779990580/LearningAndroidKotlinAlgokelvin.chapter-10-intent-result-activity-camera-gallery.iml" />
+    </modules>
+  </component>
+</project>
